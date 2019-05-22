@@ -1,2 +1,5 @@
-message = "Hello Simple Message Program!"
+message = "Message 1"
+print(message)
+
+message = "Message 2"
 print(message)
