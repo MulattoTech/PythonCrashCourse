@@ -6,6 +6,11 @@
         <list>
           <option value="W29" />
           <option value="E501" />
+<<<<<<< HEAD
+=======
+          <option value="W29" />
+          <option value="E501" />
+>>>>>>> d9d778d5b2f8fffb9abdcf754b29e86f57d01d67
         </list>
       </option>
     </inspection_tool>
