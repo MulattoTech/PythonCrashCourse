@@ -13,6 +13,7 @@ name = "ada lovelace"
 #print("\tPython")
 #print("Languages:\n\tPython\n\tC\n\tJavascript")
 
+#the following will assign text with trailing whitespace to a variable
 favorite_language = 'python '
 favorite_language = favorite_language.rstrip()
 print(favorite_language)
